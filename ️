@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>페이지</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    ㅂㅅ ㅋ
+</body>
+</html>
